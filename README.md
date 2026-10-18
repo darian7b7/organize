@@ -49,4 +49,4 @@ Loose folders go into `Extracted Folders/`. If one looks like a folder already t
 
 ## License
 
-MIT
+MIT – see [LICENSE](LICENSE).
